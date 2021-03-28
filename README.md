@@ -1,2 +1,4 @@
 # Parrot-in-Ternux
-This is simple parrot os theme for termux 
+Warning do not copy my script make your please make your own
+This is property of mr.pirate 
+Plz subscribe On youtube
