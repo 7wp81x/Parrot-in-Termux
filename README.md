@@ -1,4 +1,3 @@
 # Parrot-in-Ternux
-Warning do not copy my script make your please make your own
-This is property of mr.pirate 
-Plz subscribe On youtube
+This is just a simple script for termux users
+Wwho want parrot os theme in thiet terminal.
